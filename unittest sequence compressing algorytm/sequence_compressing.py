@@ -19,3 +19,12 @@ def compressTheSequence(sequence):
     result += sequence[i + 1]
 
     return result
+
+
+# **********************************************
+# nazwa funkcji:  compressTheSequence
+# argumenty:      sequence - ciąg znaków
+# typ zwracany:   string, ciąg znaków
+# informacje:     zastępowanie w ciągu kolejnych powtarzających się znaków na liczbę ich powtórzeń
+# autor:          Maksim Fedoseev, Yevhenii 
+# **********************************************
